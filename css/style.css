@@ -1,0 +1,22 @@
+
+
+
+/* for mobile  -sm */
+@media only screen and (min-width: 576px) {
+
+}
+
+/* for tablet -md */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* for desktop -lg  */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* for large screen -xl */
+@media only screen and (min-width: 1200px) {
+
+}
